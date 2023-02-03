@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+.card {
+    margin: 0;
+    padding: 0;
+    height: 90vh;
+    width:100%;
+    background-image:linear-gradient(
+        rgba(0, 0, 0, 0.4), 
+        rgba(0, 0, 0, 0.4)
+      ), url("https://images.pexels.com/photos/788200/pexels-photo-788200.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-size: cover;
+    align-self: bottom;
+    border: 0;
+}
+.wording{
+    margin-left:10%;
+    margin-top:12%;
+}
+h3{
+    color:grey;
+}
+h1{
+    color:white;
+    padding-top:20px;
+    font-style:san-serif;
+}
+  
+  
