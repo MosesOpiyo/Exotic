@@ -6,7 +6,7 @@ body {
 .card {
     margin: 0;
     padding: 0;
-    height: 90vh;
+    height: 100vh;
     width:100%;
     background-image:linear-gradient(
         rgba(0, 0, 0, 0.4), 
@@ -26,7 +26,63 @@ h3{
 h1{
     color:white;
     padding-top:20px;
-    font-style:san-serif;
 }
-  
+.row{
+    margin-top:5%;
+}
+.card-3{
+    height: 100%;
+    width:100%;
+    background-image: url("https://images.pexels.com/photos/1645028/pexels-photo-1645028.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-size: cover;
+    align-self: center;
+    border: 0;
+}
+.card-4{
+    margin-top:2%;
+}
+
+.card-5{
+    height: 100%;
+    width:100%;
+    background-image: url("https://images.pexels.com/photos/21787/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1600");
+    background-size: cover;
+    align-self: bottom;
+    border: 0;
+}
+.card-7 {
+    margin: 0;
+    padding: 0;
+    height: 75vh;
+    width:100%;
+    background-image:linear-gradient(
+        rgba(0, 0, 0, 0.6), 
+        rgba(0, 0, 0, 0.6)
+      ), url("https://images.hellomagazine.com/imagenes/travel/2020052490360/top-world-famous-landmarks/0-433-104/landmarks-worldwide-t.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-self:center;
+    border: 0;
+}
+.card-8 {
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    width:100%;
+    border: 0;
+}
+.wording-2{
+    margin-left:10%;
+    padding-top:5pc;
+}
+
+.card-9{
+    height: 100%;
+    width:100%;
+    background-image: url("https://images.pexels.com/photos/3935702/pexels-photo-3935702.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-self:center;
+    border: 0;
+}
   
