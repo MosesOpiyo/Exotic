@@ -3,7 +3,7 @@ body {
     padding: 0;
 
 }
-.card {
+#card {
     margin: 0;
     padding: 0;
     height: 100vh;
@@ -38,7 +38,7 @@ h1{
     align-self: center;
     border: 0;
 }
-.card-4{
+#card-4{
     margin-top:2px;
 }
 
@@ -50,7 +50,7 @@ h1{
     align-self: bottom;
     border: 0;
 }
-.card-7 {
+#card-7 {
     margin: 0;
     padding: 0;
     height: auto;
@@ -64,7 +64,7 @@ h1{
     align-self:center;
     border: 0;
 }
-.card-8 {
+#card-8 {
     margin: 0;
     padding: 0;
     height: auto;
